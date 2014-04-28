@@ -2,6 +2,10 @@
 ## Eclipse
 #################
 
+# local build stuff
+iis-setup.bat
+run-msbuild.bat
+
 *.pydevproject
 .project
 .metadata
